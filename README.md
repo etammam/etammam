@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eslam Mostafa Tammam</h1>
 <h3 align="center">Senior backend Developer with 10+ years of professional experience in software development.</h3>
 
-- 💬 Ask me about **C#, AspNetCore**
+- 💬 Ask me about **C#, AspNetCore, Software Architecture, Azure, Dynamic Workflow Design, CI/CD, Actor System, Microsoft Orleans, Microservices, Modular Monolith**
 
 - 📫 How to reach me **eslamtammam@hotmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3M49W78](https://bit.ly/3M49W78)
+- 📄 Know about my experiences ([resume](https://bit.ly/resume-etammam))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
