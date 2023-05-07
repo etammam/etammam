@@ -3,7 +3,7 @@
 - 💬 Ask me about **C#, AspNetCore, Software Architecture, Azure, Dynamic Workflow Design, CI/CD, Actor System,
 Microsoft Orleans, Microservices, Modular Monolith**
 - 📫 How to reach me **eslamtammam@hotmail.com**
-- 📄 Know about my experiences ([resume](https://bit.ly/resume-etammam))
+- 📄 Know about my experiences <a href="https://bit.ly/resume-etammam" target="_blank">resume.</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://twitter.com/eslamtammam" target="blank"><img align="center"
