@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eslam Mostafa Tammam</h1>
 <h3 align="center">Senior backend Developer with 10+ years of professional experience in software development.</h3>
-- 💬 Ask me about **C#, AspNetCore, Software Architecture, Azure, Dynamic Workflow Design, CI/CD, Actor System,
-Microsoft Orleans, Microservices, Modular Monolith**
-- 📫 How to reach me **eslamtammam@hotmail.com**
-- 📄 Know about my experiences <a href="https://bit.ly/resume-etammam" target="_blank">resume.</a>
+<dl>
+    <li>💬 Ask me about <strong>C#, AspNetCore, Software Architecture, Azure, Dynamic Workflow Design, CI/CD, Actor System,
+        Microsoft Orleans, Microservices, Modular Monolith</strong>
+    </li>
+    <li>
+        📫 How to reach me <a href="mailto:eslamtammam@hotmail.com">email</a>
+    </li>
+    <li>
+        📄 Know about my experiences <a href="https://bit.ly/resume-etammam" target="_blank">resume.</a>
+    </li>
+</dl>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://twitter.com/eslamtammam" target="blank"><img align="center"
